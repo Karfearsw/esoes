@@ -1,5 +1,8 @@
 # Es O Es - Roadside Assistance App
 
+## About Es O Es - When You Need It Most
+Get instant roadside assistance, mobile mechanics, and automotive services on-demand. Fast, reliable, and vetted professionals at your fingertips.
+
 ## Overview
 Es O Es is an on-demand roadside assistance application that connects users with service providers for automotive emergencies.
 
